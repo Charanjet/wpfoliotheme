@@ -109,7 +109,7 @@ function get_about_section(){
                                 <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                         </div>
-                        <a class="btn" href="" download="cv.pdf">Download CV</a>
+                        <a class="btn" href="https://websmash.in/wp-content/uploads/2022/11/Charanjeet-Singh-CV-Web-Developer.pdf" download="https://websmash.in/wp-content/uploads/2022/11/Charanjeet-Singh-CV-Web-Developer.pdf">Download CV</a>
                         <a class="btn" href="https://bio.link/charanjeet" >My Bio Links</a>
 
                     </div>
@@ -225,6 +225,16 @@ function get_experience_section(){
                         <h4>RVS Media</h4>
                         <p>
                             My major responsibilty is here to manage Ecommerce projects based on Magento and understanding client requirements to making sure the delivery of the task. Custom Magento Modules , Themes , Upgrades and Migrations from Shopify to Magento , Wordpress to Magento and vice versa.
+                        </p>
+                    </div>
+                </div>
+                <div class="timeline-item right wow slideInRight" data-wow-delay="0.1s">
+                    <div class="timeline-text">
+                        <div class="timeline-date">Aug 2018 - June 2021</div>
+                        <h2>Sr. Software Developer</h2>
+                        <h4>Iotasol Pvt. Ltd.</h4>
+                        <p>
+                            Working as Software developer. My responsibilites are to manage softwares and websites built in PHP.
                         </p>
                     </div>
                 </div>
