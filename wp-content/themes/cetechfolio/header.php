@@ -14,7 +14,8 @@
 <!-- Nav Bar Start -->
 <div class="navbar navbar-expand-lg bg-light navbar-light">
     <div class="container-fluid">
-        <a href="index.html" class="navbar-brand"><img src="<?= get_template_directory_uri()?>/assets/img/logo.png" alt="" class="logo"></a>
+        <a href="/" class="navbar-brand">
+            <img src="<?= get_template_directory_uri()?>/assets/img/logo/logo32.png" alt="" class="logo" ></a>
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
