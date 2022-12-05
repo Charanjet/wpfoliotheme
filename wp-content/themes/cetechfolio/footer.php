@@ -7,7 +7,7 @@
                 <h3>Ludhiana</h3>
                 <div class="footer-menu">
                     <p>+91 9878873813</p>
-                    <p>webdeveloper1352@gmail.com</p>
+                    <p>hello@websmash.in</p>
                 </div>
             </div>
         </div>
